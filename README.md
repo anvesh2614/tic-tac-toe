@@ -15,7 +15,7 @@ This line is telling us the moves availabe in this game. Once the user uses one 
 *FORMAT:[ROW,COLUMN]*
 
 __2.if [row,column] in  moves_available:__
-This line is used is so that the "X" user cannot use this move once this move once the user has used this move.
+This line is used is so that the "X" user cannot use this move once the user has used this move.
 
 __REFERENCE__:
 
